@@ -1,5 +1,5 @@
-<h3>Hi, I'm Amber</h3>
-<h4>An Aspiring Data Analyst</h4>
+<h3 align="center">Hi, I'm Amber</h3>
+<h4 align="center">An Aspiring Data Analyst</h4>
 
 - 🔭 I'm seeking for opportunities to apply my expertise and solve real-world problems.
 
