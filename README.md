@@ -6,7 +6,7 @@
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/chiyunhuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiyunhuang" height="30" width="40" /></a>
-<a href="https://public.tableau.com/app/profile/amber.huang8017/vizzes" target="blank"><img align="center" src="[https://camo.githubusercontent.com/49ffc303b9fb222a858e030061cf318f98d15fb7ed4d84bf84c61e3dbfbbef31/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f7461626c6561752d736f6674776172652e737667](https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png](https://camo.githubusercontent.com/522736cb9d56289b62466e4318bb45dd901f0e2335a978a0f453392ae78650c4/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f7461626c6561752d736f6674776172652e737667)" alt="tableau" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/amber.huang8017/vizzes" target="blank"><img align="center" src="https://camo.githubusercontent.com/522736cb9d56289b62466e4318bb45dd901f0e2335a978a0f453392ae78650c4/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f7461626c6561752d736f6674776172652e737667" alt="tableau" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
